@@ -12,6 +12,5 @@ expect(page).to have_css("h1", text: "Targaryen")
    #   visit student_path(@student)
  #   expect(page).to have_content("This student is currently active.")
   # end
-end
 describe 'Activate page' do
 end
