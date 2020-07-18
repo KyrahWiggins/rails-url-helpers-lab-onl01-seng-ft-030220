@@ -14,3 +14,4 @@ end
   # end
   it "Should redirect to the student show page" do
       visit activate_student_path(@student)	    visit activate_student_path(@student)
+end
