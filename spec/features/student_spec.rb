@@ -1,5 +1,5 @@
 expect(page).to have_css("h1", text: "Targaryen")
-  end	  
+  end
 
 
 	 # it 'renders the active status if the user is inactive' do
@@ -14,5 +14,5 @@ expect(page).to have_css("h1", text: "Targaryen")
    #   visit student_path(@student)
  #   expect(page).to have_content("This student is currently active.")
   # end
-end	
+end
 describe 'Activate page' do
